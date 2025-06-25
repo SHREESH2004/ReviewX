@@ -1,5 +1,5 @@
 
-# 📝 CodeReviewHub
+# 📝 ReviewX
 
 A powerful **MERN stack** web application designed to help developers review, comment, and improve code collaboratively. Whether you want feedback on a snippet or a full project, CodeReviewHub makes code reviews seamless, insightful, and productive.
 
